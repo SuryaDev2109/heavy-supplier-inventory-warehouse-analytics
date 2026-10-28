@@ -1,0 +1,181 @@
+product_id,product_name,category,branch_id,branch_name,current_stock,total_stock_out,movement_count,movement_category
+P030,Fuel Pump Fp-350,Engine,CHN001,Chennai South Hub,246,8099,1445,Fast Moving
+P018,Wheel Rim Wr-24,Undercarriage,CHN001,Chennai South Hub,564,8079,1503,Fast Moving
+P023,Idler Wheel Iw-55,Undercarriage,CHN001,Chennai South Hub,231,8061,1499,Fast Moving
+P027,O-Ring Set Or-50,Seals,CHN001,Chennai South Hub,133,7971,1423,Fast Moving
+P001,Hydraulic Pump Hp-300,Hydraulic,CHN001,Chennai South Hub,311,7965,1426,Fast Moving
+P017,Fan Belt Fb-30,Belts,CHN001,Chennai South Hub,300,7961,1462,Fast Moving
+P007,Hydraulic Hose Hh-60,Hydraulic,CHN001,Chennai South Hub,434,7940,1503,Fast Moving
+P003,Air Filter Af-120,Filters,CHN001,Chennai South Hub,365,7934,1506,Fast Moving
+P009,Starter Motor Sm-700,Electrical,CHN001,Chennai South Hub,387,7908,1488,Fast Moving
+P010,Turbocharger Tb-900,Engine,KOL001,Kolkata East Depot,294,7866,1432,Fast Moving
+P025,Cabin Glass Cg-20,Cabin,CHN001,Chennai South Hub,564,7815,1496,Fast Moving
+P014,Transmission Assembly Ta-800,Transmission,CHN001,Chennai South Hub,303,7813,1519,Fast Moving
+P006,Alternator Alt-500,Electrical,CHN001,Chennai South Hub,181,7760,1516,Fast Moving
+P008,Bucket Tooth Bt-10,Attachments,CHN001,Chennai South Hub,477,7731,1486,Fast Moving
+P029,Pressure Sensor Ps-90,Sensors,KOL001,Kolkata East Depot,299,7723,1419,Fast Moving
+P011,Hydraulic Cylinder Hc-200,Hydraulic,CHN001,Chennai South Hub,233,7721,1463,Fast Moving
+P022,Control Valve Cv-75,Hydraulic,CHN001,Chennai South Hub,227,7718,1482,Fast Moving
+P021,Boom Cylinder Bc-400,Hydraulic,CHN001,Chennai South Hub,319,7703,1414,Fast Moving
+P024,Track Roller Tr-60,Undercarriage,CHN001,Chennai South Hub,204,7694,1430,Fast Moving
+P016,Radiator Rd-250,Cooling,CHN001,Chennai South Hub,309,7680,1487,Fast Moving
+P029,Pressure Sensor Ps-90,Sensors,CHN001,Chennai South Hub,173,7667,1424,Fast Moving
+P002,Engine Oil Filter Of-90,Filters,CHN001,Chennai South Hub,465,7606,1462,Fast Moving
+P026,Grease Cartridge Gc-5,Lubricants,CHN001,Chennai South Hub,181,7584,1478,Fast Moving
+P005,Fuel Injector Fi-220,Engine,CHN001,Chennai South Hub,336,7576,1532,Fast Moving
+P019,Swing Motor Swm-350,Hydraulic,CHN001,Chennai South Hub,566,7574,1427,Fast Moving
+P013,Seal Kit Sk-15,Seals,CHN001,Chennai South Hub,307,7540,1448,Fast Moving
+P010,Turbocharger Tb-900,Engine,CHN001,Chennai South Hub,191,7535,1484,Fast Moving
+P004,Track Chain Tc-45,Undercarriage,CHN001,Chennai South Hub,339,7520,1424,Fast Moving
+P015,Engine Block Eb-600,Engine,CHN001,Chennai South Hub,370,7465,1490,Fast Moving
+P011,Hydraulic Cylinder Hc-200,Hydraulic,KOL001,Kolkata East Depot,582,7422,1450,Fast Moving
+P012,Brake Pad Bp-40,Brakes,CHN001,Chennai South Hub,274,7311,1424,Fast Moving
+P028,Light Assembly La-18,Electrical,CHN001,Chennai South Hub,198,7310,1420,Fast Moving
+P003,Air Filter Af-120,Filters,KOL001,Kolkata East Depot,386,7307,1433,Fast Moving
+P020,Pivot Pin Pp-12,Pins & Bushes,CHN001,Chennai South Hub,454,7303,1468,Fast Moving
+P006,Alternator Alt-500,Electrical,KOL001,Kolkata East Depot,181,7281,1443,Fast Moving
+P025,Cabin Glass Cg-20,Cabin,KOL001,Kolkata East Depot,499,7222,1414,Fast Moving
+P001,Hydraulic Pump Hp-300,Hydraulic,KOL001,Kolkata East Depot,475,7210,1372,Fast Moving
+P018,Wheel Rim Wr-24,Undercarriage,KOL001,Kolkata East Depot,284,7193,1342,Fast Moving
+P024,Track Roller Tr-60,Undercarriage,KOL001,Kolkata East Depot,242,7162,1433,Fast Moving
+P015,Engine Block Eb-600,Engine,KOL001,Kolkata East Depot,508,7138,1327,Fast Moving
+P019,Swing Motor Swm-350,Hydraulic,KOL001,Kolkata East Depot,141,7135,1313,Fast Moving
+P021,Boom Cylinder Bc-400,Hydraulic,KOL001,Kolkata East Depot,485,7105,1345,Fast Moving
+P002,Engine Oil Filter Of-90,Filters,KOL001,Kolkata East Depot,511,7104,1389,Fast Moving
+P013,Seal Kit Sk-15,Seals,KOL001,Kolkata East Depot,233,7052,1382,Fast Moving
+P012,Brake Pad Bp-40,Brakes,AHM001,Ahmedabad West Hub,156,7040,1391,Fast Moving
+P004,Track Chain Tc-45,Undercarriage,KOL001,Kolkata East Depot,187,7014,1391,Fast Moving
+P027,O-Ring Set Or-50,Seals,KOL001,Kolkata East Depot,385,6993,1396,Fast Moving
+P007,Hydraulic Hose Hh-60,Hydraulic,KOL001,Kolkata East Depot,438,6950,1344,Fast Moving
+P030,Fuel Pump Fp-350,Engine,KOL001,Kolkata East Depot,365,6940,1366,Fast Moving
+P022,Control Valve Cv-75,Hydraulic,KOL001,Kolkata East Depot,513,6906,1346,Fast Moving
+P017,Fan Belt Fb-30,Belts,KOL001,Kolkata East Depot,344,6900,1386,Fast Moving
+P016,Radiator Rd-250,Cooling,KOL001,Kolkata East Depot,277,6816,1338,Fast Moving
+P003,Air Filter Af-120,Filters,AHM001,Ahmedabad West Hub,475,6798,1353,Fast Moving
+P028,Light Assembly La-18,Electrical,KOL001,Kolkata East Depot,437,6763,1355,Fast Moving
+P029,Pressure Sensor Ps-90,Sensors,AHM001,Ahmedabad West Hub,267,6745,1309,Fast Moving
+P010,Turbocharger Tb-900,Engine,AHM001,Ahmedabad West Hub,245,6742,1400,Fast Moving
+P023,Idler Wheel Iw-55,Undercarriage,KOL001,Kolkata East Depot,273,6722,1386,Fast Moving
+P016,Radiator Rd-250,Cooling,AHM001,Ahmedabad West Hub,164,6706,1370,Fast Moving
+P028,Light Assembly La-18,Electrical,AHM001,Ahmedabad West Hub,368,6705,1331,Fast Moving
+P009,Starter Motor Sm-700,Electrical,KOL001,Kolkata East Depot,201,6703,1394,Fast Moving
+P008,Bucket Tooth Bt-10,Attachments,KOL001,Kolkata East Depot,262,6702,1350,Fast Moving
+P004,Track Chain Tc-45,Undercarriage,AHM001,Ahmedabad West Hub,430,6699,1325,Fast Moving
+P009,Starter Motor Sm-700,Electrical,AHM001,Ahmedabad West Hub,333,6625,1275,Fast Moving
+P014,Transmission Assembly Ta-800,Transmission,KOL001,Kolkata East Depot,519,6610,1373,Fast Moving
+P019,Swing Motor Swm-350,Hydraulic,AHM001,Ahmedabad West Hub,378,6604,1364,Fast Moving
+P015,Engine Block Eb-600,Engine,AHM001,Ahmedabad West Hub,131,6600,1356,Fast Moving
+P021,Boom Cylinder Bc-400,Hydraulic,AHM001,Ahmedabad West Hub,554,6598,1312,Fast Moving
+P012,Brake Pad Bp-40,Brakes,KOL001,Kolkata East Depot,368,6590,1372,Fast Moving
+P005,Fuel Injector Fi-220,Engine,KOL001,Kolkata East Depot,357,6583,1349,Fast Moving
+P007,Hydraulic Hose Hh-60,Hydraulic,AHM001,Ahmedabad West Hub,267,6579,1335,Fast Moving
+P011,Hydraulic Cylinder Hc-200,Hydraulic,AHM001,Ahmedabad West Hub,410,6575,1319,Fast Moving
+P022,Control Valve Cv-75,Hydraulic,AHM001,Ahmedabad West Hub,254,6555,1320,Fast Moving
+P026,Grease Cartridge Gc-5,Lubricants,AHM001,Ahmedabad West Hub,445,6547,1319,Fast Moving
+P008,Bucket Tooth Bt-10,Attachments,AHM001,Ahmedabad West Hub,430,6546,1350,Fast Moving
+P005,Fuel Injector Fi-220,Engine,AHM001,Ahmedabad West Hub,175,6514,1354,Fast Moving
+P013,Seal Kit Sk-15,Seals,AHM001,Ahmedabad West Hub,150,6512,1322,Fast Moving
+P002,Engine Oil Filter Of-90,Filters,AHM001,Ahmedabad West Hub,179,6483,1358,Fast Moving
+P026,Grease Cartridge Gc-5,Lubricants,KOL001,Kolkata East Depot,445,6479,1326,Fast Moving
+P027,O-Ring Set Or-50,Seals,AHM001,Ahmedabad West Hub,294,6461,1357,Fast Moving
+P020,Pivot Pin Pp-12,Pins & Bushes,KOL001,Kolkata East Depot,355,6416,1306,Fast Moving
+P019,Swing Motor Swm-350,Hydraulic,DEL001,Delhi Central,208,6407,1347,Fast Moving
+P001,Hydraulic Pump Hp-300,Hydraulic,AHM001,Ahmedabad West Hub,455,6385,1292,Fast Moving
+P025,Cabin Glass Cg-20,Cabin,AHM001,Ahmedabad West Hub,328,6347,1276,Fast Moving
+P024,Track Roller Tr-60,Undercarriage,AHM001,Ahmedabad West Hub,425,6293,1338,Fast Moving
+P020,Pivot Pin Pp-12,Pins & Bushes,AHM001,Ahmedabad West Hub,270,6276,1282,Fast Moving
+P014,Transmission Assembly Ta-800,Transmission,AHM001,Ahmedabad West Hub,171,6248,1316,Fast Moving
+P017,Fan Belt Fb-30,Belts,AHM001,Ahmedabad West Hub,542,6218,1373,Fast Moving
+P018,Wheel Rim Wr-24,Undercarriage,AHM001,Ahmedabad West Hub,438,6203,1288,Fast Moving
+P020,Pivot Pin Pp-12,Pins & Bushes,DEL001,Delhi Central,140,6196,1283,Fast Moving
+P030,Fuel Pump Fp-350,Engine,DEL001,Delhi Central,336,6133,1272,Fast Moving
+P030,Fuel Pump Fp-350,Engine,AHM001,Ahmedabad West Hub,231,6071,1294,Fast Moving
+P006,Alternator Alt-500,Electrical,AHM001,Ahmedabad West Hub,291,6049,1319,Fast Moving
+P023,Idler Wheel Iw-55,Undercarriage,AHM001,Ahmedabad West Hub,434,6018,1313,Fast Moving
+P016,Radiator Rd-250,Cooling,DEL001,Delhi Central,434,6006,1292,Fast Moving
+P028,Light Assembly La-18,Electrical,DEL001,Delhi Central,353,5948,1298,Fast Moving
+P011,Hydraulic Cylinder Hc-200,Hydraulic,DEL001,Delhi Central,369,5920,1302,Fast Moving
+P008,Bucket Tooth Bt-10,Attachments,DEL001,Delhi Central,572,5914,1275,Fast Moving
+P023,Idler Wheel Iw-55,Undercarriage,DEL001,Delhi Central,313,5898,1287,Fast Moving
+P014,Transmission Assembly Ta-800,Transmission,DEL001,Delhi Central,384,5894,1293,Fast Moving
+P011,Hydraulic Cylinder Hc-200,Hydraulic,PUN001,Pune Distribution,138,5881,1299,Fast Moving
+P027,O-Ring Set Or-50,Seals,PUN001,Pune Distribution,376,5873,1302,Fast Moving
+P001,Hydraulic Pump Hp-300,Hydraulic,DEL001,Delhi Central,340,5859,1311,Fast Moving
+P007,Hydraulic Hose Hh-60,Hydraulic,PUN001,Pune Distribution,459,5837,1266,Fast Moving
+P012,Brake Pad Bp-40,Brakes,DEL001,Delhi Central,489,5835,1337,Fast Moving
+P016,Radiator Rd-250,Cooling,PUN001,Pune Distribution,371,5824,1287,Fast Moving
+P029,Pressure Sensor Ps-90,Sensors,PUN001,Pune Distribution,225,5803,1270,Fast Moving
+P015,Engine Block Eb-600,Engine,DEL001,Delhi Central,387,5770,1234,Fast Moving
+P021,Boom Cylinder Bc-400,Hydraulic,PUN001,Pune Distribution,287,5747,1263,Fast Moving
+P030,Fuel Pump Fp-350,Engine,PUN001,Pune Distribution,283,5743,1286,Fast Moving
+P017,Fan Belt Fb-30,Belts,PUN001,Pune Distribution,331,5743,1271,Fast Moving
+P022,Control Valve Cv-75,Hydraulic,PUN001,Pune Distribution,487,5720,1296,Fast Moving
+P006,Alternator Alt-500,Electrical,DEL001,Delhi Central,234,5711,1202,Fast Moving
+P010,Turbocharger Tb-900,Engine,DEL001,Delhi Central,220,5710,1259,Fast Moving
+P005,Fuel Injector Fi-220,Engine,DEL001,Delhi Central,463,5706,1257,Fast Moving
+P004,Track Chain Tc-45,Undercarriage,PUN001,Pune Distribution,265,5697,1242,Fast Moving
+P003,Air Filter Af-120,Filters,DEL001,Delhi Central,190,5681,1239,Fast Moving
+P012,Brake Pad Bp-40,Brakes,PUN001,Pune Distribution,308,5678,1315,Fast Moving
+P006,Alternator Alt-500,Electrical,HYD001,Hyderabad Logistics,472,5646,1250,Fast Moving
+P002,Engine Oil Filter Of-90,Filters,DEL001,Delhi Central,261,5640,1269,Fast Moving
+P020,Pivot Pin Pp-12,Pins & Bushes,HYD001,Hyderabad Logistics,273,5638,1195,Fast Moving
+P007,Hydraulic Hose Hh-60,Hydraulic,DEL001,Delhi Central,383,5617,1300,Fast Moving
+P020,Pivot Pin Pp-12,Pins & Bushes,PUN001,Pune Distribution,140,5604,1219,Fast Moving
+P028,Light Assembly La-18,Electrical,PUN001,Pune Distribution,522,5601,1244,Fast Moving
+P028,Light Assembly La-18,Electrical,HYD001,Hyderabad Logistics,199,5567,1211,Fast Moving
+P010,Turbocharger Tb-900,Engine,PUN001,Pune Distribution,267,5541,1278,Fast Moving
+P026,Grease Cartridge Gc-5,Lubricants,DEL001,Delhi Central,186,5527,1233,Fast Moving
+P025,Cabin Glass Cg-20,Cabin,HYD001,Hyderabad Logistics,133,5512,1271,Fast Moving
+P027,O-Ring Set Or-50,Seals,DEL001,Delhi Central,193,5508,1265,Fast Moving
+P004,Track Chain Tc-45,Undercarriage,DEL001,Delhi Central,267,5507,1237,Fast Moving
+P014,Transmission Assembly Ta-800,Transmission,PUN001,Pune Distribution,164,5506,1291,Fast Moving
+P021,Boom Cylinder Bc-400,Hydraulic,HYD001,Hyderabad Logistics,263,5504,1211,Fast Moving
+P025,Cabin Glass Cg-20,Cabin,PUN001,Pune Distribution,300,5502,1255,Fast Moving
+P026,Grease Cartridge Gc-5,Lubricants,HYD001,Hyderabad Logistics,314,5486,1264,Fast Moving
+P009,Starter Motor Sm-700,Electrical,PUN001,Pune Distribution,345,5484,1263,Fast Moving
+P006,Alternator Alt-500,Electrical,PUN001,Pune Distribution,356,5467,1253,Fast Moving
+P029,Pressure Sensor Ps-90,Sensors,HYD001,Hyderabad Logistics,324,5453,1244,Fast Moving
+P022,Control Valve Cv-75,Hydraulic,DEL001,Delhi Central,315,5441,1234,Fast Moving
+P023,Idler Wheel Iw-55,Undercarriage,PUN001,Pune Distribution,198,5433,1254,Fast Moving
+P017,Fan Belt Fb-30,Belts,DEL001,Delhi Central,479,5418,1284,Fast Moving
+P015,Engine Block Eb-600,Engine,PUN001,Pune Distribution,210,5398,1215,Fast Moving
+P002,Engine Oil Filter Of-90,Filters,PUN001,Pune Distribution,180,5389,1206,Fast Moving
+P003,Air Filter Af-120,Filters,PUN001,Pune Distribution,359,5382,1265,Fast Moving
+P008,Bucket Tooth Bt-10,Attachments,HYD001,Hyderabad Logistics,467,5323,1185,Fast Moving
+P012,Brake Pad Bp-40,Brakes,HYD001,Hyderabad Logistics,241,5317,1243,Fast Moving
+P005,Fuel Injector Fi-220,Engine,HYD001,Hyderabad Logistics,341,5310,1262,Fast Moving
+P025,Cabin Glass Cg-20,Cabin,DEL001,Delhi Central,310,5304,1227,Fast Moving
+P013,Seal Kit Sk-15,Seals,PUN001,Pune Distribution,133,5269,1216,Fast Moving
+P009,Starter Motor Sm-700,Electrical,HYD001,Hyderabad Logistics,436,5260,1183,Fast Moving
+P029,Pressure Sensor Ps-90,Sensors,DEL001,Delhi Central,174,5257,1238,Fast Moving
+P026,Grease Cartridge Gc-5,Lubricants,PUN001,Pune Distribution,189,5251,1230,Fast Moving
+P018,Wheel Rim Wr-24,Undercarriage,DEL001,Delhi Central,508,5247,1278,Fast Moving
+P001,Hydraulic Pump Hp-300,Hydraulic,PUN001,Pune Distribution,349,5241,1273,Fast Moving
+P010,Turbocharger Tb-900,Engine,HYD001,Hyderabad Logistics,307,5222,1219,Fast Moving
+P009,Starter Motor Sm-700,Electrical,DEL001,Delhi Central,261,5211,1177,Fast Moving
+P018,Wheel Rim Wr-24,Undercarriage,PUN001,Pune Distribution,293,5196,1271,Fast Moving
+P005,Fuel Injector Fi-220,Engine,PUN001,Pune Distribution,436,5181,1240,Fast Moving
+P007,Hydraulic Hose Hh-60,Hydraulic,HYD001,Hyderabad Logistics,548,5175,1253,Fast Moving
+P011,Hydraulic Cylinder Hc-200,Hydraulic,HYD001,Hyderabad Logistics,244,5153,1248,Fast Moving
+P019,Swing Motor Swm-350,Hydraulic,PUN001,Pune Distribution,207,5144,1242,Fast Moving
+P021,Boom Cylinder Bc-400,Hydraulic,DEL001,Delhi Central,257,5141,1258,Fast Moving
+P013,Seal Kit Sk-15,Seals,DEL001,Delhi Central,249,5130,1226,Fast Moving
+P008,Bucket Tooth Bt-10,Attachments,PUN001,Pune Distribution,147,5096,1179,Fast Moving
+P024,Track Roller Tr-60,Undercarriage,PUN001,Pune Distribution,232,5081,1260,Fast Moving
+P030,Fuel Pump Fp-350,Engine,HYD001,Hyderabad Logistics,268,5060,1180,Fast Moving
+P016,Radiator Rd-250,Cooling,HYD001,Hyderabad Logistics,177,5041,1185,Fast Moving
+P001,Hydraulic Pump Hp-300,Hydraulic,HYD001,Hyderabad Logistics,417,5012,1220,Fast Moving
+P022,Control Valve Cv-75,Hydraulic,HYD001,Hyderabad Logistics,226,4965,1168,Fast Moving
+P017,Fan Belt Fb-30,Belts,HYD001,Hyderabad Logistics,172,4963,1247,Fast Moving
+P002,Engine Oil Filter Of-90,Filters,HYD001,Hyderabad Logistics,383,4958,1244,Fast Moving
+P013,Seal Kit Sk-15,Seals,HYD001,Hyderabad Logistics,412,4956,1229,Fast Moving
+P018,Wheel Rim Wr-24,Undercarriage,HYD001,Hyderabad Logistics,322,4954,1229,Fast Moving
+P019,Swing Motor Swm-350,Hydraulic,HYD001,Hyderabad Logistics,350,4929,1127,Fast Moving
+P024,Track Roller Tr-60,Undercarriage,HYD001,Hyderabad Logistics,415,4898,1158,Fast Moving
+P015,Engine Block Eb-600,Engine,HYD001,Hyderabad Logistics,226,4855,1185,Fast Moving
+P004,Track Chain Tc-45,Undercarriage,HYD001,Hyderabad Logistics,363,4818,1174,Fast Moving
+P003,Air Filter Af-120,Filters,HYD001,Hyderabad Logistics,422,4818,1192,Fast Moving
+P024,Track Roller Tr-60,Undercarriage,DEL001,Delhi Central,469,4796,1253,Fast Moving
+P014,Transmission Assembly Ta-800,Transmission,HYD001,Hyderabad Logistics,377,4790,1209,Fast Moving
+P027,O-Ring Set Or-50,Seals,HYD001,Hyderabad Logistics,211,4711,1180,Fast Moving
+P023,Idler Wheel Iw-55,Undercarriage,HYD001,Hyderabad Logistics,134,4601,1134,Fast Moving

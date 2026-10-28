@@ -1,0 +1,24 @@
+SELECT
+    product_id,
+    product_name,
+    category,
+    branch_id,
+    branch_name,
+    current_stock,
+    total_stock_out,
+    movement_count,
+
+    CASE
+        WHEN COALESCE(total_stock_out, 0) = 0
+             AND COALESCE(movement_count, 0) = 0
+            THEN 'No Movement'
+        WHEN COALESCE(total_stock_out, 0) >= 100
+            THEN 'Fast Moving'
+        WHEN COALESCE(total_stock_out, 0) > 0
+            THEN 'Slow Moving'
+        ELSE 'Movement Review Required'
+    END AS movement_category
+
+FROM core_product_inventory_warehouse_analytics
+
+ORDER BY total_stock_out DESC NULLS LAST;
