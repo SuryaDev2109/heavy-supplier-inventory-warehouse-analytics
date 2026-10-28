@@ -1,0 +1,7 @@
+"branch_id","branch_name","total_stock_received","total_stock_dispatched","total_inventory_throughput","total_stock_adjustment","total_movement_count"
+"CHN001","Chennai South Hub",3461260,231544,3692804,11314,44029
+"DEL001","Delhi Central",3453132,169332,3622464,10734,37967
+"PUN001","Pune Distribution",3415584,165312,3580896,11278,37751
+"HYD001","Hyderabad Logistics",3394339,153895,3548234,11650,36300
+"AHM001","Ahmedabad West Hub",3344924,194742,3539666,10182,39911
+"KOL001","Kolkata East Depot",3328556,210007,3538563,11832,41272

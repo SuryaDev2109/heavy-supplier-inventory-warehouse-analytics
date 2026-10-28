@@ -1,0 +1,181 @@
+"product_id","product_name","category","branch_id","branch_name","current_stock","inventory_reorder_level","inventory_safety_stock","inventory_max_stock","suggested_reorder_quantity","inventory_status","inventory_risk","stock_health_status","stock_vs_reorder_percentage","safety_stock_gap"
+"P015","Engine Block Eb-600","Engine","AHM001","Ahmedabad West Hub",131,28,24,131,0,"Overstock","Overstock Risk","Overstocked",467.86,0
+"P027","O-Ring Set Or-50","Seals","CHN001","Chennai South Hub",133,33,19,133,0,"Overstock","Overstock Risk","Overstocked",403.03,0
+"P025","Cabin Glass Cg-20","Cabin","HYD001","Hyderabad Logistics",133,26,21,133,0,"Overstock","Overstock Risk","Overstocked",511.54,0
+"P013","Seal Kit Sk-15","Seals","PUN001","Pune Distribution",133,25,16,133,0,"Overstock","Overstock Risk","Overstocked",532.00,0
+"P023","Idler Wheel Iw-55","Undercarriage","HYD001","Hyderabad Logistics",134,31,16,134,0,"Overstock","Overstock Risk","Overstocked",432.26,0
+"P011","Hydraulic Cylinder Hc-200","Hydraulic","PUN001","Pune Distribution",138,31,20,138,0,"Overstock","Overstock Risk","Overstocked",445.16,0
+"P020","Pivot Pin Pp-12","Pins & Bushes","PUN001","Pune Distribution",140,24,16,140,0,"Overstock","Overstock Risk","Overstocked",583.33,0
+"P020","Pivot Pin Pp-12","Pins & Bushes","DEL001","Delhi Central",140,31,24,140,0,"Overstock","Overstock Risk","Overstocked",451.61,0
+"P019","Swing Motor Swm-350","Hydraulic","KOL001","Kolkata East Depot",141,30,22,141,0,"Overstock","Overstock Risk","Overstocked",470.00,0
+"P008","Bucket Tooth Bt-10","Attachments","PUN001","Pune Distribution",147,33,17,147,0,"Overstock","Overstock Risk","Overstocked",445.45,0
+"P013","Seal Kit Sk-15","Seals","AHM001","Ahmedabad West Hub",150,25,22,150,0,"Overstock","Overstock Risk","Overstocked",600.00,0
+"P012","Brake Pad Bp-40","Brakes","AHM001","Ahmedabad West Hub",156,32,24,156,0,"Overstock","Overstock Risk","Overstocked",487.50,0
+"P016","Radiator Rd-250","Cooling","AHM001","Ahmedabad West Hub",164,33,25,164,0,"Overstock","Overstock Risk","Overstocked",496.97,0
+"P014","Transmission Assembly Ta-800","Transmission","PUN001","Pune Distribution",164,33,20,164,0,"Overstock","Overstock Risk","Overstocked",496.97,0
+"P014","Transmission Assembly Ta-800","Transmission","AHM001","Ahmedabad West Hub",171,32,27,171,0,"Overstock","Overstock Risk","Overstocked",534.38,0
+"P017","Fan Belt Fb-30","Belts","HYD001","Hyderabad Logistics",172,26,23,172,0,"Overstock","Overstock Risk","Overstocked",661.54,0
+"P029","Pressure Sensor Ps-90","Sensors","CHN001","Chennai South Hub",173,33,27,173,0,"Overstock","Overstock Risk","Overstocked",524.24,0
+"P029","Pressure Sensor Ps-90","Sensors","DEL001","Delhi Central",174,33,27,174,0,"Overstock","Overstock Risk","Overstocked",527.27,0
+"P005","Fuel Injector Fi-220","Engine","AHM001","Ahmedabad West Hub",175,37,29,175,0,"Overstock","Overstock Risk","Overstocked",472.97,0
+"P016","Radiator Rd-250","Cooling","HYD001","Hyderabad Logistics",177,35,24,177,0,"Overstock","Overstock Risk","Overstocked",505.71,0
+"P002","Engine Oil Filter Of-90","Filters","AHM001","Ahmedabad West Hub",179,36,27,179,0,"Overstock","Overstock Risk","Overstocked",497.22,0
+"P002","Engine Oil Filter Of-90","Filters","PUN001","Pune Distribution",180,41,27,180,0,"Overstock","Overstock Risk","Overstocked",439.02,0
+"P026","Grease Cartridge Gc-5","Lubricants","CHN001","Chennai South Hub",181,36,33,181,0,"Overstock","Overstock Risk","Overstocked",502.78,0
+"P006","Alternator Alt-500","Electrical","CHN001","Chennai South Hub",181,41,31,181,0,"Overstock","Overstock Risk","Overstocked",441.46,0
+"P006","Alternator Alt-500","Electrical","KOL001","Kolkata East Depot",181,33,28,181,0,"Overstock","Overstock Risk","Overstocked",548.48,0
+"P026","Grease Cartridge Gc-5","Lubricants","DEL001","Delhi Central",186,28,22,186,0,"Overstock","Overstock Risk","Overstocked",664.29,0
+"P004","Track Chain Tc-45","Undercarriage","KOL001","Kolkata East Depot",187,44,33,187,0,"Overstock","Overstock Risk","Overstocked",425.00,0
+"P026","Grease Cartridge Gc-5","Lubricants","PUN001","Pune Distribution",189,36,33,189,0,"Overstock","Overstock Risk","Overstocked",525.00,0
+"P003","Air Filter Af-120","Filters","DEL001","Delhi Central",190,44,31,190,0,"Overstock","Overstock Risk","Overstocked",431.82,0
+"P010","Turbocharger Tb-900","Engine","CHN001","Chennai South Hub",191,44,29,191,0,"Overstock","Overstock Risk","Overstocked",434.09,0
+"P027","O-Ring Set Or-50","Seals","DEL001","Delhi Central",193,31,26,193,0,"Overstock","Overstock Risk","Overstocked",622.58,0
+"P028","Light Assembly La-18","Electrical","CHN001","Chennai South Hub",198,43,29,198,0,"Overstock","Overstock Risk","Overstocked",460.47,0
+"P023","Idler Wheel Iw-55","Undercarriage","PUN001","Pune Distribution",198,40,26,198,0,"Overstock","Overstock Risk","Overstocked",495.00,0
+"P028","Light Assembly La-18","Electrical","HYD001","Hyderabad Logistics",199,47,37,199,0,"Overstock","Overstock Risk","Overstocked",423.40,0
+"P009","Starter Motor Sm-700","Electrical","KOL001","Kolkata East Depot",201,35,25,201,0,"Overstock","Overstock Risk","Overstocked",574.29,0
+"P024","Track Roller Tr-60","Undercarriage","CHN001","Chennai South Hub",204,44,27,204,0,"Overstock","Overstock Risk","Overstocked",463.64,0
+"P019","Swing Motor Swm-350","Hydraulic","PUN001","Pune Distribution",207,36,27,207,0,"Overstock","Overstock Risk","Overstocked",575.00,0
+"P019","Swing Motor Swm-350","Hydraulic","DEL001","Delhi Central",208,37,27,208,0,"Overstock","Overstock Risk","Overstocked",562.16,0
+"P015","Engine Block Eb-600","Engine","PUN001","Pune Distribution",210,43,34,210,0,"Overstock","Overstock Risk","Overstocked",488.37,0
+"P027","O-Ring Set Or-50","Seals","HYD001","Hyderabad Logistics",211,46,29,211,0,"Overstock","Overstock Risk","Overstocked",458.70,0
+"P010","Turbocharger Tb-900","Engine","DEL001","Delhi Central",220,43,37,220,0,"Overstock","Overstock Risk","Overstocked",511.63,0
+"P029","Pressure Sensor Ps-90","Sensors","PUN001","Pune Distribution",225,40,28,225,0,"Overstock","Overstock Risk","Overstocked",562.50,0
+"P015","Engine Block Eb-600","Engine","HYD001","Hyderabad Logistics",226,56,43,226,0,"Overstock","Overstock Risk","Overstocked",403.57,0
+"P022","Control Valve Cv-75","Hydraulic","HYD001","Hyderabad Logistics",226,46,33,226,0,"Overstock","Overstock Risk","Overstocked",491.30,0
+"P022","Control Valve Cv-75","Hydraulic","CHN001","Chennai South Hub",227,44,31,227,0,"Overstock","Overstock Risk","Overstocked",515.91,0
+"P030","Fuel Pump Fp-350","Engine","AHM001","Ahmedabad West Hub",231,46,40,231,0,"Overstock","Overstock Risk","Overstocked",502.17,0
+"P023","Idler Wheel Iw-55","Undercarriage","CHN001","Chennai South Hub",231,53,40,231,0,"Overstock","Overstock Risk","Overstocked",435.85,0
+"P024","Track Roller Tr-60","Undercarriage","PUN001","Pune Distribution",232,41,31,232,0,"Overstock","Overstock Risk","Overstocked",565.85,0
+"P013","Seal Kit Sk-15","Seals","KOL001","Kolkata East Depot",233,44,26,233,0,"Overstock","Overstock Risk","Overstocked",529.55,0
+"P011","Hydraulic Cylinder Hc-200","Hydraulic","CHN001","Chennai South Hub",233,50,32,233,0,"Overstock","Overstock Risk","Overstocked",466.00,0
+"P006","Alternator Alt-500","Electrical","DEL001","Delhi Central",234,43,26,234,0,"Overstock","Overstock Risk","Overstocked",544.19,0
+"P012","Brake Pad Bp-40","Brakes","HYD001","Hyderabad Logistics",241,42,28,241,0,"Overstock","Overstock Risk","Overstocked",573.81,0
+"P024","Track Roller Tr-60","Undercarriage","KOL001","Kolkata East Depot",242,58,38,242,0,"Overstock","Overstock Risk","Overstocked",417.24,0
+"P011","Hydraulic Cylinder Hc-200","Hydraulic","HYD001","Hyderabad Logistics",244,46,41,244,0,"Overstock","Overstock Risk","Overstocked",530.43,0
+"P010","Turbocharger Tb-900","Engine","AHM001","Ahmedabad West Hub",245,43,27,245,0,"Overstock","Overstock Risk","Overstocked",569.77,0
+"P030","Fuel Pump Fp-350","Engine","CHN001","Chennai South Hub",246,46,28,246,0,"Overstock","Overstock Risk","Overstocked",534.78,0
+"P013","Seal Kit Sk-15","Seals","DEL001","Delhi Central",249,48,27,249,0,"Overstock","Overstock Risk","Overstocked",518.75,0
+"P022","Control Valve Cv-75","Hydraulic","AHM001","Ahmedabad West Hub",254,54,37,254,0,"Overstock","Overstock Risk","Overstocked",470.37,0
+"P021","Boom Cylinder Bc-400","Hydraulic","DEL001","Delhi Central",257,59,40,257,0,"Overstock","Overstock Risk","Overstocked",435.59,0
+"P002","Engine Oil Filter Of-90","Filters","DEL001","Delhi Central",261,57,35,261,0,"Overstock","Overstock Risk","Overstocked",457.89,0
+"P009","Starter Motor Sm-700","Electrical","DEL001","Delhi Central",261,57,32,261,0,"Overstock","Overstock Risk","Overstocked",457.89,0
+"P008","Bucket Tooth Bt-10","Attachments","KOL001","Kolkata East Depot",262,43,30,262,0,"Overstock","Overstock Risk","Overstocked",609.30,0
+"P021","Boom Cylinder Bc-400","Hydraulic","HYD001","Hyderabad Logistics",263,56,36,263,0,"Overstock","Overstock Risk","Overstocked",469.64,0
+"P004","Track Chain Tc-45","Undercarriage","PUN001","Pune Distribution",265,55,37,265,0,"Overstock","Overstock Risk","Overstocked",481.82,0
+"P029","Pressure Sensor Ps-90","Sensors","AHM001","Ahmedabad West Hub",267,49,40,267,0,"Overstock","Overstock Risk","Overstocked",544.90,0
+"P004","Track Chain Tc-45","Undercarriage","DEL001","Delhi Central",267,57,35,267,0,"Overstock","Overstock Risk","Overstocked",468.42,0
+"P007","Hydraulic Hose Hh-60","Hydraulic","AHM001","Ahmedabad West Hub",267,50,38,267,0,"Overstock","Overstock Risk","Overstocked",534.00,0
+"P010","Turbocharger Tb-900","Engine","PUN001","Pune Distribution",267,48,45,267,0,"Overstock","Overstock Risk","Overstocked",556.25,0
+"P030","Fuel Pump Fp-350","Engine","HYD001","Hyderabad Logistics",268,53,40,268,0,"Overstock","Overstock Risk","Overstocked",505.66,0
+"P020","Pivot Pin Pp-12","Pins & Bushes","AHM001","Ahmedabad West Hub",270,54,28,270,0,"Overstock","Overstock Risk","Overstocked",500.00,0
+"P023","Idler Wheel Iw-55","Undercarriage","KOL001","Kolkata East Depot",273,49,30,273,0,"Overstock","Overstock Risk","Overstocked",557.14,0
+"P020","Pivot Pin Pp-12","Pins & Bushes","HYD001","Hyderabad Logistics",273,64,46,273,0,"Overstock","Overstock Risk","Overstocked",426.56,0
+"P012","Brake Pad Bp-40","Brakes","CHN001","Chennai South Hub",274,54,32,274,0,"Overstock","Overstock Risk","Overstocked",507.41,0
+"P016","Radiator Rd-250","Cooling","KOL001","Kolkata East Depot",277,49,32,277,0,"Overstock","Overstock Risk","Overstocked",565.31,0
+"P030","Fuel Pump Fp-350","Engine","PUN001","Pune Distribution",283,52,35,283,0,"Overstock","Overstock Risk","Overstocked",544.23,0
+"P018","Wheel Rim Wr-24","Undercarriage","KOL001","Kolkata East Depot",284,59,42,284,0,"Overstock","Overstock Risk","Overstocked",481.36,0
+"P021","Boom Cylinder Bc-400","Hydraulic","PUN001","Pune Distribution",287,59,32,287,0,"Overstock","Overstock Risk","Overstocked",486.44,0
+"P006","Alternator Alt-500","Electrical","AHM001","Ahmedabad West Hub",291,62,43,291,0,"Overstock","Overstock Risk","Overstocked",469.35,0
+"P018","Wheel Rim Wr-24","Undercarriage","PUN001","Pune Distribution",293,55,41,293,0,"Overstock","Overstock Risk","Overstocked",532.73,0
+"P027","O-Ring Set Or-50","Seals","AHM001","Ahmedabad West Hub",294,51,33,294,0,"Overstock","Overstock Risk","Overstocked",576.47,0
+"P010","Turbocharger Tb-900","Engine","KOL001","Kolkata East Depot",294,61,46,294,0,"Overstock","Overstock Risk","Overstocked",481.97,0
+"P029","Pressure Sensor Ps-90","Sensors","KOL001","Kolkata East Depot",299,57,40,299,0,"Overstock","Overstock Risk","Overstocked",524.56,0
+"P017","Fan Belt Fb-30","Belts","CHN001","Chennai South Hub",300,59,45,300,0,"Overstock","Overstock Risk","Overstocked",508.47,0
+"P025","Cabin Glass Cg-20","Cabin","PUN001","Pune Distribution",300,68,45,300,0,"Overstock","Overstock Risk","Overstocked",441.18,0
+"P014","Transmission Assembly Ta-800","Transmission","CHN001","Chennai South Hub",303,60,40,303,0,"Overstock","Overstock Risk","Overstocked",505.00,0
+"P010","Turbocharger Tb-900","Engine","HYD001","Hyderabad Logistics",307,62,46,307,0,"Overstock","Overstock Risk","Overstocked",495.16,0
+"P013","Seal Kit Sk-15","Seals","CHN001","Chennai South Hub",307,56,45,307,0,"Overstock","Overstock Risk","Overstocked",548.21,0
+"P012","Brake Pad Bp-40","Brakes","PUN001","Pune Distribution",308,68,52,308,0,"Overstock","Overstock Risk","Overstocked",452.94,0
+"P016","Radiator Rd-250","Cooling","CHN001","Chennai South Hub",309,71,45,309,0,"Overstock","Overstock Risk","Overstocked",435.21,0
+"P025","Cabin Glass Cg-20","Cabin","DEL001","Delhi Central",310,54,49,310,0,"Overstock","Overstock Risk","Overstocked",574.07,0
+"P001","Hydraulic Pump Hp-300","Hydraulic","CHN001","Chennai South Hub",311,62,44,311,0,"Overstock","Overstock Risk","Overstocked",501.61,0
+"P023","Idler Wheel Iw-55","Undercarriage","DEL001","Delhi Central",313,73,49,313,0,"Overstock","Overstock Risk","Overstocked",428.77,0
+"P026","Grease Cartridge Gc-5","Lubricants","HYD001","Hyderabad Logistics",314,75,54,314,0,"Overstock","Overstock Risk","Overstocked",418.67,0
+"P022","Control Valve Cv-75","Hydraulic","DEL001","Delhi Central",315,68,41,315,0,"Overstock","Overstock Risk","Overstocked",463.24,0
+"P021","Boom Cylinder Bc-400","Hydraulic","CHN001","Chennai South Hub",319,71,40,319,0,"Overstock","Overstock Risk","Overstocked",449.30,0
+"P018","Wheel Rim Wr-24","Undercarriage","HYD001","Hyderabad Logistics",322,78,58,322,0,"Overstock","Overstock Risk","Overstocked",412.82,0
+"P029","Pressure Sensor Ps-90","Sensors","HYD001","Hyderabad Logistics",324,76,55,324,0,"Overstock","Overstock Risk","Overstocked",426.32,0
+"P025","Cabin Glass Cg-20","Cabin","AHM001","Ahmedabad West Hub",328,64,44,328,0,"Overstock","Overstock Risk","Overstocked",512.50,0
+"P017","Fan Belt Fb-30","Belts","PUN001","Pune Distribution",331,63,56,331,0,"Overstock","Overstock Risk","Overstocked",525.40,0
+"P009","Starter Motor Sm-700","Electrical","AHM001","Ahmedabad West Hub",333,61,44,333,0,"Overstock","Overstock Risk","Overstocked",545.90,0
+"P030","Fuel Pump Fp-350","Engine","DEL001","Delhi Central",336,64,53,336,0,"Overstock","Overstock Risk","Overstocked",525.00,0
+"P005","Fuel Injector Fi-220","Engine","CHN001","Chennai South Hub",336,68,40,336,0,"Overstock","Overstock Risk","Overstocked",494.12,0
+"P004","Track Chain Tc-45","Undercarriage","CHN001","Chennai South Hub",339,58,41,339,0,"Overstock","Overstock Risk","Overstocked",584.48,0
+"P001","Hydraulic Pump Hp-300","Hydraulic","DEL001","Delhi Central",340,59,46,340,0,"Overstock","Overstock Risk","Overstocked",576.27,0
+"P005","Fuel Injector Fi-220","Engine","HYD001","Hyderabad Logistics",341,62,51,341,0,"Overstock","Overstock Risk","Overstocked",550.00,0
+"P017","Fan Belt Fb-30","Belts","KOL001","Kolkata East Depot",344,72,56,344,0,"Overstock","Overstock Risk","Overstocked",477.78,0
+"P009","Starter Motor Sm-700","Electrical","PUN001","Pune Distribution",345,56,37,345,0,"Overstock","Overstock Risk","Overstocked",616.07,0
+"P001","Hydraulic Pump Hp-300","Hydraulic","PUN001","Pune Distribution",349,70,43,349,0,"Overstock","Overstock Risk","Overstocked",498.57,0
+"P019","Swing Motor Swm-350","Hydraulic","HYD001","Hyderabad Logistics",350,81,49,350,0,"Overstock","Overstock Risk","Overstocked",432.10,0
+"P028","Light Assembly La-18","Electrical","DEL001","Delhi Central",353,81,58,353,0,"Overstock","Overstock Risk","Overstocked",435.80,0
+"P020","Pivot Pin Pp-12","Pins & Bushes","KOL001","Kolkata East Depot",355,61,53,355,0,"Overstock","Overstock Risk","Overstocked",581.97,0
+"P006","Alternator Alt-500","Electrical","PUN001","Pune Distribution",356,69,43,356,0,"Overstock","Overstock Risk","Overstocked",515.94,0
+"P005","Fuel Injector Fi-220","Engine","KOL001","Kolkata East Depot",357,83,43,357,0,"Overstock","Overstock Risk","Overstocked",430.12,0
+"P003","Air Filter Af-120","Filters","PUN001","Pune Distribution",359,72,44,359,0,"Overstock","Overstock Risk","Overstocked",498.61,0
+"P004","Track Chain Tc-45","Undercarriage","HYD001","Hyderabad Logistics",363,62,49,363,0,"Overstock","Overstock Risk","Overstocked",585.48,0
+"P003","Air Filter Af-120","Filters","CHN001","Chennai South Hub",365,62,39,365,0,"Overstock","Overstock Risk","Overstocked",588.71,0
+"P030","Fuel Pump Fp-350","Engine","KOL001","Kolkata East Depot",365,73,43,365,0,"Overstock","Overstock Risk","Overstocked",500.00,0
+"P012","Brake Pad Bp-40","Brakes","KOL001","Kolkata East Depot",368,67,51,368,0,"Overstock","Overstock Risk","Overstocked",549.25,0
+"P028","Light Assembly La-18","Electrical","AHM001","Ahmedabad West Hub",368,78,57,368,0,"Overstock","Overstock Risk","Overstocked",471.79,0
+"P011","Hydraulic Cylinder Hc-200","Hydraulic","DEL001","Delhi Central",369,85,64,369,0,"Overstock","Overstock Risk","Overstocked",434.12,0
+"P015","Engine Block Eb-600","Engine","CHN001","Chennai South Hub",370,91,57,370,0,"Overstock","Overstock Risk","Overstocked",406.59,0
+"P016","Radiator Rd-250","Cooling","PUN001","Pune Distribution",371,74,47,371,0,"Overstock","Overstock Risk","Overstocked",501.35,0
+"P027","O-Ring Set Or-50","Seals","PUN001","Pune Distribution",376,70,58,376,0,"Overstock","Overstock Risk","Overstocked",537.14,0
+"P014","Transmission Assembly Ta-800","Transmission","HYD001","Hyderabad Logistics",377,71,50,377,0,"Overstock","Overstock Risk","Overstocked",530.99,0
+"P019","Swing Motor Swm-350","Hydraulic","AHM001","Ahmedabad West Hub",378,85,46,378,0,"Overstock","Overstock Risk","Overstocked",444.71,0
+"P002","Engine Oil Filter Of-90","Filters","HYD001","Hyderabad Logistics",383,78,64,383,0,"Overstock","Overstock Risk","Overstocked",491.03,0
+"P007","Hydraulic Hose Hh-60","Hydraulic","DEL001","Delhi Central",383,79,59,383,0,"Overstock","Overstock Risk","Overstocked",484.81,0
+"P014","Transmission Assembly Ta-800","Transmission","DEL001","Delhi Central",384,72,44,384,0,"Overstock","Overstock Risk","Overstocked",533.33,0
+"P027","O-Ring Set Or-50","Seals","KOL001","Kolkata East Depot",385,79,54,385,0,"Overstock","Overstock Risk","Overstocked",487.34,0
+"P003","Air Filter Af-120","Filters","KOL001","Kolkata East Depot",386,80,52,386,0,"Overstock","Overstock Risk","Overstocked",482.50,0
+"P015","Engine Block Eb-600","Engine","DEL001","Delhi Central",387,75,60,387,0,"Overstock","Overstock Risk","Overstocked",516.00,0
+"P009","Starter Motor Sm-700","Electrical","CHN001","Chennai South Hub",387,89,53,387,0,"Overstock","Overstock Risk","Overstocked",434.83,0
+"P011","Hydraulic Cylinder Hc-200","Hydraulic","AHM001","Ahmedabad West Hub",410,66,50,410,0,"Overstock","Overstock Risk","Overstocked",621.21,0
+"P013","Seal Kit Sk-15","Seals","HYD001","Hyderabad Logistics",412,86,52,412,0,"Overstock","Overstock Risk","Overstocked",479.07,0
+"P024","Track Roller Tr-60","Undercarriage","HYD001","Hyderabad Logistics",415,86,66,415,0,"Overstock","Overstock Risk","Overstocked",482.56,0
+"P001","Hydraulic Pump Hp-300","Hydraulic","HYD001","Hyderabad Logistics",417,71,65,417,0,"Overstock","Overstock Risk","Overstocked",587.32,0
+"P003","Air Filter Af-120","Filters","HYD001","Hyderabad Logistics",422,95,72,422,0,"Overstock","Overstock Risk","Overstocked",444.21,0
+"P024","Track Roller Tr-60","Undercarriage","AHM001","Ahmedabad West Hub",425,104,58,425,0,"Overstock","Overstock Risk","Overstocked",408.65,0
+"P008","Bucket Tooth Bt-10","Attachments","AHM001","Ahmedabad West Hub",430,85,57,430,0,"Overstock","Overstock Risk","Overstocked",505.88,0
+"P004","Track Chain Tc-45","Undercarriage","AHM001","Ahmedabad West Hub",430,104,77,430,0,"Overstock","Overstock Risk","Overstocked",413.46,0
+"P007","Hydraulic Hose Hh-60","Hydraulic","CHN001","Chennai South Hub",434,77,46,434,0,"Overstock","Overstock Risk","Overstocked",563.64,0
+"P023","Idler Wheel Iw-55","Undercarriage","AHM001","Ahmedabad West Hub",434,90,50,434,0,"Overstock","Overstock Risk","Overstocked",482.22,0
+"P016","Radiator Rd-250","Cooling","DEL001","Delhi Central",434,84,66,434,0,"Overstock","Overstock Risk","Overstocked",516.67,0
+"P005","Fuel Injector Fi-220","Engine","PUN001","Pune Distribution",436,89,76,436,0,"Overstock","Overstock Risk","Overstocked",489.89,0
+"P009","Starter Motor Sm-700","Electrical","HYD001","Hyderabad Logistics",436,101,82,436,0,"Overstock","Overstock Risk","Overstocked",431.68,0
+"P028","Light Assembly La-18","Electrical","KOL001","Kolkata East Depot",437,76,75,437,0,"Overstock","Overstock Risk","Overstocked",575.00,0
+"P018","Wheel Rim Wr-24","Undercarriage","AHM001","Ahmedabad West Hub",438,89,64,438,0,"Overstock","Overstock Risk","Overstocked",492.13,0
+"P007","Hydraulic Hose Hh-60","Hydraulic","KOL001","Kolkata East Depot",438,93,62,438,0,"Overstock","Overstock Risk","Overstocked",470.97,0
+"P026","Grease Cartridge Gc-5","Lubricants","AHM001","Ahmedabad West Hub",445,89,65,445,0,"Overstock","Overstock Risk","Overstocked",500.00,0
+"P026","Grease Cartridge Gc-5","Lubricants","KOL001","Kolkata East Depot",445,74,59,445,0,"Overstock","Overstock Risk","Overstocked",601.35,0
+"P020","Pivot Pin Pp-12","Pins & Bushes","CHN001","Chennai South Hub",454,105,84,454,0,"Overstock","Overstock Risk","Overstocked",432.38,0
+"P001","Hydraulic Pump Hp-300","Hydraulic","AHM001","Ahmedabad West Hub",455,77,53,455,0,"Overstock","Overstock Risk","Overstocked",590.91,0
+"P007","Hydraulic Hose Hh-60","Hydraulic","PUN001","Pune Distribution",459,72,58,459,0,"Overstock","Overstock Risk","Overstocked",637.50,0
+"P005","Fuel Injector Fi-220","Engine","DEL001","Delhi Central",463,94,63,463,0,"Overstock","Overstock Risk","Overstocked",492.55,0
+"P002","Engine Oil Filter Of-90","Filters","CHN001","Chennai South Hub",465,102,76,465,0,"Overstock","Overstock Risk","Overstocked",455.88,0
+"P008","Bucket Tooth Bt-10","Attachments","HYD001","Hyderabad Logistics",467,93,75,467,0,"Overstock","Overstock Risk","Overstocked",502.15,0
+"P024","Track Roller Tr-60","Undercarriage","DEL001","Delhi Central",469,99,56,469,0,"Overstock","Overstock Risk","Overstocked",473.74,0
+"P006","Alternator Alt-500","Electrical","HYD001","Hyderabad Logistics",472,84,62,472,0,"Overstock","Overstock Risk","Overstocked",561.90,0
+"P001","Hydraulic Pump Hp-300","Hydraulic","KOL001","Kolkata East Depot",475,94,58,475,0,"Overstock","Overstock Risk","Overstocked",505.32,0
+"P003","Air Filter Af-120","Filters","AHM001","Ahmedabad West Hub",475,82,48,475,0,"Overstock","Overstock Risk","Overstocked",579.27,0
+"P008","Bucket Tooth Bt-10","Attachments","CHN001","Chennai South Hub",477,104,75,477,0,"Overstock","Overstock Risk","Overstocked",458.65,0
+"P017","Fan Belt Fb-30","Belts","DEL001","Delhi Central",479,93,72,479,0,"Overstock","Overstock Risk","Overstocked",515.05,0
+"P021","Boom Cylinder Bc-400","Hydraulic","KOL001","Kolkata East Depot",485,102,69,485,0,"Overstock","Overstock Risk","Overstocked",475.49,0
+"P022","Control Valve Cv-75","Hydraulic","PUN001","Pune Distribution",487,119,60,487,0,"Overstock","Overstock Risk","Overstocked",409.24,0
+"P012","Brake Pad Bp-40","Brakes","DEL001","Delhi Central",489,98,67,489,0,"Overstock","Overstock Risk","Overstocked",498.98,0
+"P025","Cabin Glass Cg-20","Cabin","KOL001","Kolkata East Depot",499,113,84,499,0,"Overstock","Overstock Risk","Overstocked",441.59,0
+"P015","Engine Block Eb-600","Engine","KOL001","Kolkata East Depot",508,116,81,508,0,"Overstock","Overstock Risk","Overstocked",437.93,0
+"P018","Wheel Rim Wr-24","Undercarriage","DEL001","Delhi Central",508,106,74,508,0,"Overstock","Overstock Risk","Overstocked",479.25,0
+"P002","Engine Oil Filter Of-90","Filters","KOL001","Kolkata East Depot",511,105,73,511,0,"Overstock","Overstock Risk","Overstocked",486.67,0
+"P022","Control Valve Cv-75","Hydraulic","KOL001","Kolkata East Depot",513,105,65,513,0,"Overstock","Overstock Risk","Overstocked",488.57,0
+"P014","Transmission Assembly Ta-800","Transmission","KOL001","Kolkata East Depot",519,106,60,519,0,"Overstock","Overstock Risk","Overstocked",489.62,0
+"P028","Light Assembly La-18","Electrical","PUN001","Pune Distribution",522,100,56,522,0,"Overstock","Overstock Risk","Overstocked",522.00,0
+"P017","Fan Belt Fb-30","Belts","AHM001","Ahmedabad West Hub",542,99,82,542,0,"Overstock","Overstock Risk","Overstocked",547.47,0
+"P007","Hydraulic Hose Hh-60","Hydraulic","HYD001","Hyderabad Logistics",548,93,61,548,0,"Overstock","Overstock Risk","Overstocked",589.25,0
+"P021","Boom Cylinder Bc-400","Hydraulic","AHM001","Ahmedabad West Hub",554,110,60,554,0,"Overstock","Overstock Risk","Overstocked",503.64,0
+"P018","Wheel Rim Wr-24","Undercarriage","CHN001","Chennai South Hub",564,98,74,564,0,"Overstock","Overstock Risk","Overstocked",575.51,0
+"P025","Cabin Glass Cg-20","Cabin","CHN001","Chennai South Hub",564,112,85,564,0,"Overstock","Overstock Risk","Overstocked",503.57,0
+"P019","Swing Motor Swm-350","Hydraulic","CHN001","Chennai South Hub",566,86,66,566,0,"Overstock","Overstock Risk","Overstocked",658.14,0
+"P008","Bucket Tooth Bt-10","Attachments","DEL001","Delhi Central",572,116,69,572,0,"Overstock","Overstock Risk","Overstocked",493.10,0
+"P011","Hydraulic Cylinder Hc-200","Hydraulic","KOL001","Kolkata East Depot",582,113,68,582,0,"Overstock","Overstock Risk","Overstocked",515.04,0
