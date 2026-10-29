@@ -1,325 +1,67 @@
-Heavy Suppliers, Inventory and Warehouse Analytics
-
-Week 1: Data Profiling and Cleaning
-
-Status: Completed
-
-Reviewed source tables and column structures.
-Identified missing values, duplicates, and data inconsistencies.
-Performed data-quality checks and cleaning.
-Validated primary keys, foreign keys, and data types.
-Deliverables: Profiling queries, cleaning scripts, and data-quality report.
-
-Week 2: Data Integration and Feature Engineering
-
-Status: Completed
-
-Integrated supplier, purchase order, sales, inventory, and payment data.
-Developed SQL joins and analytical views.
-Created derived features for credit utilization, delivery delays, inventory status, and supplier reliability.
-Validated integrated data and feature calculations.
-Deliverables: Integration scripts, analytical views, and derived feature documentation.
-
-Week 3: Data Dictionary and First KPIs
-
-Status: Completed
-
-Created a data dictionary for source tables and derived fields.
-Defined initial supplier, inventory, warehouse, and customer payment KPIs.
-Executed SQL queries to calculate the KPIs.
-Validated results and documented initial business insights.
-Deliverables: Data dictionary, KPI SQL scripts, results.
-
-
-Core Product, Inventory & Warehouse Analytics
-Project Overview
-
-As part of the Heavy Supplier, Inventory & Warehouse Analytics project, this module focuses on analyzing product performance, inventory movement, stock turnover, stock health, warehouse space utilization, and inventory throughput using PostgreSQL.
-
-The analysis uses the core_product_inventory_warehouse_analytics dataset to generate meaningful insights into product profitability, fast- and slow-moving products, inventory availability, warehouse capacity, and stock movement across branches.
-
-
-Objectives
-
-Evaluate product performance and profitability.
-
-Identify fast-moving, moderate-moving, and slow-moving products.
-
-Analyze inventory turnover and stock coverage.
-
-Monitor stock health and identify replenishment requirements.
-
-Measure warehouse space and capacity utilization.
-
-Analyze inventory throughput across products and branches.
-
-Support data-driven inventory and warehouse management decisions.
-
-
-Key Analysis Areas
-
-1. Product Performance Analysis
-
-Evaluates product pricing, costs, profit margins, inventory value, and potential sales value.
-
-Key Metrics:
-
-Product Cost and Selling Price
-
-Profit per Unit
-
-Profit Margin Percentage
-
-Current Inventory Value
-
-Potential Sales Value
-
-Potential Gross Profit
-
-Product Profitability Status
-
-Business Insights:
-
-Identify profitable and loss-making products.
-
-Compare product profitability across categories.
-
-Evaluate inventory value and potential revenue opportunities.
-
-Support product portfolio and pricing decisions.
-
-
-2. Fast/Slow-Moving Product Analysis
-
-Classifies products based on stock-out quantities and inventory movement indicators.
-
-Key Metrics:
-
-Total Stock In
-
-Total Stock Out
-
-Inventory Movement Count
-
-Current Stock
-
-Last Stock Movement Date
-
-Product Movement Category
-
-Business Insights:
-
-Identify fast-moving and slow-moving products.
-
-Highlight products with no recorded movement.
-
-Understand inventory movement patterns.
-
-Support stock allocation and replenishment planning.
-
-
-3. Inventory Turnover Analysis
-
-Examines inventory turnover indicators and estimated stock coverage to understand how efficiently inventory moves through the business.
-
-Key Metrics:
-
-Stock Turnover Indicator
-
-Estimated Stock Coverage Days
-
-Opening Stock
-
-Current Stock
-
-Total Stock Out
-
-Current Inventory Value
-
-Business Insights:
-
-Identify products with high or low turnover indicators.
-
-Monitor stock coverage and potential excess inventory.
-
-Identify products that may require replenishment.
-
-Support inventory optimization and working capital management.
-
-
-4. Stock Health Analysis
-
-Evaluates inventory levels against reorder points, safety stock, and maximum stock limits.
-
-Key Metrics:
-
-Current Stock
-
-Reorder Level
-
-Safety Stock
-
-Maximum Stock Level
-
-Stock vs. Reorder Percentage
-
-Safety Stock Gap
-
-Suggested Reorder Quantity
-
-Inventory Risk
-
-Stock Health Status
-
-Business Insights:
-
-Identify out-of-stock and critical-stock products.
-
-Detect products requiring replenishment.
-
-Highlight potential overstocking.
-
-Improve inventory availability and stock control.
-
-Reduce the risk of stockouts and excess inventory.
-
-
-5. Warehouse Space Utilization Analysis
-
-Measures warehouse utilization across branches to support storage capacity planning.
-
-Key Metrics:
-
-Warehouse Capacity
-
-Warehouse Stock Utilization Percentage
-
-Warehouse Capacity Utilization Percentage
-
-Warehouse Type
-
-Warehouse Bin
-
-Branch and Regional Information
-
-Business Insights:
-
-Identify warehouses operating near full capacity.
-
-Compare warehouse utilization across branches.
-
-Identify locations with available storage capacity.
-
-Support warehouse space allocation and optimization.
-
-
-6. Inventory Throughput Analysis
-
-Measures inventory movement based on quantities received into and dispatched from warehouses.
-
-
-Key Metrics:
-
-Total Stock In
-
-Total Stock Out
-
-Total Inventory Throughput
-
-Total Stock Adjustments
-
-Movement Count
-
-Last Stock Movement Date
-
-Branch-Wise Inventory Movement
-
-
-Business Insights:
-
-Measure overall inventory movement.
-
-Compare stock receipts and dispatches across branches.
-
-Identify products with high and low throughput.
-
-Monitor warehouse operational activity.
-
-Support inventory flow and distribution planning.
-
-
-Dataset
-
-Source: core_product_inventory_warehouse_analytics
-
-The dataset contains product, pricing, inventory, warehouse, branch, stock movement, purchase, demand, and utilization information.
-
-Tools & Technologies
-
-Database: PostgreSQL
-
-Query Language: SQL
-
-Data Analysis: Product Performance, Inventory Analysis, Stock Movement Analysis, Warehouse Analytics
-
-Visualization: Microsoft Power BI
-
-Key Techniques: SQL Views, Conditional Logic, Aggregation, KPI Calculation, Inventory Classification
-
-
-SQL Implementation
-
-Separate PostgreSQL queries were developed to analyze:
-
-1. Product Performance
-
-2. Fast/Slow-Moving Products
-
-3. Inventory Turnover
-
-4. Stock Health
-
-5. Warehouse Space Utilization
-
-6. Inventory Throughput
-
-7. Branch-Wise Inventory Throughput
-
-
-Expected Business Outcomes
-
-Improved visibility into product profitability and inventory value.
-
-Better identification of fast- and slow-moving products.
-
-Improved monitoring of inventory turnover and stock coverage.
-
-Early identification of stock shortages and excess inventory.
-
-Better understanding of warehouse capacity utilization.
-
-Improved visibility into inventory movement across branches.
-
-More informed inventory replenishment and warehouse planning decisions.
-
-
-Future Enhancements
-
-Develop an interactive Power BI dashboard with key inventory KPIs.
-
-Calculate time-based product movement using 30-day and 90-day periods.
-
-Implement accurate inventory turnover calculations using cost of goods sold and average inventory value.
-
-Introduce demand forecasting and predictive reorder recommendations.
-
-Add warehouse utilization alerts and stockout risk monitoring.
-
-Integrate supplier delivery performance and purchase lead-time analysis.
-
-
-Conclusion:
-
-The Core Product, Inventory & Warehouse Analytics module is an integral part of the Heavy Supplier, Inventory & Warehouse Analytics project. By combining PostgreSQL-based product performance analysis, inventory movement classification, turnover monitoring, stock health evaluation, warehouse utilization, and throughput analysis, this module supports data-driven decisions for improving inventory efficiency and warehouse operations.
-
+Heavy Suppliers, Inventory & Warehouse Analytics
+📌 Project Overview
+This end-to-end data analytics project focuses on supplier reliability, customer behavior, product performance, inventory management, and warehouse efficiency. Using SQL, Python, and Power BI, the project aims to generate actionable business insights, identify operational risks, forecast demand, and support data-driven decisions.
+
+Project Duration: 12 Weeks
+Domain: Supply Chain, Inventory & Warehouse Analytics
+Tools: PostgreSQL, Python, Excel, Power BI, GitHub
+
+🗓️ Week-by-Week Project Roadmap
+Phase 1: Foundation & Exploration (Weeks 1–3)
+Week 1: Data Profiling & Exploration
+Identify all available datasets and understand their structure.
+Examine columns, data types, row counts, and relationships.
+Identify missing values, duplicate records, and inconsistent data.
+Perform initial exploratory data analysis.
+Document data quality issues.
+Deliverables: Data profiling report, initial findings, and data quality assessment.
+
+Week 2: Data Cleaning & Integration
+Handle missing values and duplicate records.
+Standardize column names, formats, and data types.
+Validate primary keys and foreign key relationships.
+Integrate supplier, customer, product, sales, purchase, inventory, and warehouse datasets.
+Verify the consistency of integrated data.
+Deliverables: Cleaned datasets, integration queries, and data validation report.
+
+Week 3: Feature Engineering, Data Dictionary & First KPIs
+Create useful analytical features and derived columns.
+Develop a data dictionary describing columns, data types, and business meanings.
+Create initial SQL views and KPI queries.
+Calculate baseline sales, inventory, supplier, and warehouse metrics.
+Document initial business observations.
+Deliverables: Data dictionary, feature-engineering scripts, and first KPI report.
+
+Phase 2: Core Product, Inventory & Warehouse Analytics (Weeks 4–6)
+Week 4: Product Performance Analytics
+Analyze product sales, revenue, and profitability.
+Compare performance by product category, brand, and model.
+Identify top-performing and underperforming products.
+Examine product demand and sales trends.
+Deliverables: Product performance report and product analytics SQL views.
+
+Week 5: Inventory & Stock Movement Analytics
+Calculate inventory turnover.
+Identify fast- and slow-moving products.
+Analyze stock levels against reorder and safety stock thresholds.
+Examine stock movements and inventory availability.
+Identify potential excess stock and stockout situations.
+Deliverables: Inventory health report, stock movement analysis, and inventory KPIs.
+
+Week 6: Warehouse Efficiency Analytics
+Analyze warehouse capacity and space utilization.
+Compare inventory and operational metrics across branches.
+Examine warehouse throughput and stock movement.
+Identify operational bottlenecks and inefficient stock distribution.
+Recommend opportunities to improve warehouse efficiency.
+Deliverables: Warehouse performance report and warehouse KPI analysis.
+
+Phase 3: Supplier, Customer & Predictive Analytics (Weeks 7–9)
+Week 7: Supplier Reliability & Risk Analytics
+Calculate supplier delivery success rates.
+Analyze average delivery lead time and delivery delays.
+Compare supplier performance and purchase order fulfillment.
+Classify suppliers by reliability and operational risk.
+Identify suppliers requiring performance improvement.
+Deliverables: Supplier scorecard, reliability metrics, and supplier risk classification.
 
