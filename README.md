@@ -126,4 +126,18 @@ Identify valuable, inactive, and potentially high-risk customers.
 
 Deliverables: RFM analysis, customer segmentation report, and customer risk indicators.
 
+Week 9: Demand Forecasting & Inventory Prediction
+
+Analyze historical product sales and demand trends.
+
+Develop an initial demand forecasting model.
+
+Identify products at risk of stockouts.
+
+Estimate reorder requirements using demand and stock information.
+
+Evaluate predictive model performance where applicable.
+
+Deliverables: Demand forecasts, stockout risk analysis, reorder recommendations, and model evaluation report.
+
 
